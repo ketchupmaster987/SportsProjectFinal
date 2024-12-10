@@ -6,8 +6,6 @@ U:\Prog3\SportsFinalProject\SportsFinalProject\bin\Debug\net6.0\SportsFinalProje
 U:\Prog3\SportsFinalProject\SportsFinalProject\bin\Debug\net6.0\SportsFinalProject.runtimeconfig.json
 U:\Prog3\SportsFinalProject\SportsFinalProject\bin\Debug\net6.0\SportsFinalProject.dll
 U:\Prog3\SportsFinalProject\SportsFinalProject\bin\Debug\net6.0\SportsFinalProject.pdb
-U:\Prog3\SportsFinalProject\SportsFinalProject\bin\Debug\net6.0\SportsLibrary.dll
-U:\Prog3\SportsFinalProject\SportsFinalProject\bin\Debug\net6.0\SportsLibrary.pdb
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\SportsFinalProject.csproj.AssemblyReference.cache
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\SportsFinalProject.GeneratedMSBuildEditorConfig.editorconfig
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\SportsFinalProject.AssemblyInfoInputs.cache
@@ -26,7 +24,6 @@ U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\staticwebassets.
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\scopedcss\bundle\SportsFinalProject.styles.css
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\scopedcss\projectbundle\SportsFinalProject.bundle.scp.css
-U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\SportsFinalProject.csproj.CopyComplete
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\SportsFinalProject.dll
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\refint\SportsFinalProject.dll
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\SportsFinalProject.pdb

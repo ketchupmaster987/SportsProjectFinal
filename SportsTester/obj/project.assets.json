@@ -6338,8 +6338,8 @@
     },
     "SportsLibrary/1.0.0": {
       "type": "project",
-      "path": "../../SportsLibrary/SportsLibrary/SportsLibrary.csproj",
-      "msbuildProject": "../../SportsLibrary/SportsLibrary/SportsLibrary.csproj"
+      "path": "../SportsLibrary/SportsLibrary/SportsLibrary.csproj",
+      "msbuildProject": "../SportsLibrary/SportsLibrary/SportsLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6384,8 +6384,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "U:\\Prog3\\SportsLibrary\\SportsLibrary\\SportsLibrary.csproj": {
-              "projectPath": "U:\\Prog3\\SportsLibrary\\SportsLibrary\\SportsLibrary.csproj"
+            "U:\\Prog3\\SportsFinalProject\\SportsLibrary\\SportsLibrary\\SportsLibrary.csproj": {
+              "projectPath": "U:\\Prog3\\SportsFinalProject\\SportsLibrary\\SportsLibrary\\SportsLibrary.csproj"
             }
           }
         }
@@ -6394,11 +6394,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -6438,7 +6433,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

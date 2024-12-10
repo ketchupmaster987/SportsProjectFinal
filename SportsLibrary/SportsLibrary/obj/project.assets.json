@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "U:\\Prog3\\SportsLibrary\\SportsLibrary\\SportsLibrary.csproj",
+      "projectUniqueName": "U:\\Prog3\\SportsFinalProject\\SportsLibrary\\SportsLibrary\\SportsLibrary.csproj",
       "projectName": "SportsLibrary",
-      "projectPath": "U:\\Prog3\\SportsLibrary\\SportsLibrary\\SportsLibrary.csproj",
+      "projectPath": "U:\\Prog3\\SportsFinalProject\\SportsLibrary\\SportsLibrary\\SportsLibrary.csproj",
       "packagesPath": "C:\\Users\\Atkin\\.nuget\\packages\\",
-      "outputPath": "U:\\Prog3\\SportsLibrary\\SportsLibrary\\obj\\",
+      "outputPath": "U:\\Prog3\\SportsFinalProject\\SportsLibrary\\SportsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
