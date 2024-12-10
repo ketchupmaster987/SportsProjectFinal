@@ -10,4 +10,8 @@
     <ProjectReference Include="..\SportsLibrary\SportsLibrary\SportsLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Sports\" />
+  </ItemGroup>
+
 </Project>

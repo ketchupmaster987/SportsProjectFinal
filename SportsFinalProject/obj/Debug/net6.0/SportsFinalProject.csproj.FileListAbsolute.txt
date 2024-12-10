@@ -29,3 +29,6 @@ U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\refint\SportsFin
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\SportsFinalProject.pdb
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\SportsFinalProject.genruntimeconfig.cache
 U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\ref\SportsFinalProject.dll
+U:\Prog3\SportsFinalProject\SportsFinalProject\bin\Debug\net6.0\SportsLibrary.dll
+U:\Prog3\SportsFinalProject\SportsFinalProject\bin\Debug\net6.0\SportsLibrary.pdb
+U:\Prog3\SportsFinalProject\SportsFinalProject\obj\Debug\net6.0\SportsFinalProject.csproj.CopyComplete

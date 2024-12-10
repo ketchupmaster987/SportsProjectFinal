@@ -25,5 +25,36 @@ namespace SportsTester
             Assert.AreNotEqual(idOne, idTwo);
             Assert.AreEqual(idOne + 1, idTwo);
         }
+
+        [TestMethod]
+        public void TeamTests()
+        {
+            Player p = new Player();
+            Player p2 = new Player();
+            Team t = new Team();
+            t.AddPlayer(p);
+
+            Assert.IsTrue(t.ContainsPlayer(p));
+            Assert.IsFalse(t.ContainsPlayer(p2));
+        }
+
+        [TestMethod]
+        public void SportTests()
+        {
+
+            Team t1 = new Team();
+            Team t2 = new Team();
+            Sport eSports = new Sport();
+
+            Player p1 = new Player();
+
+            t1.AddPlayer(p1);
+
+            eSports.AddTeam(t1);
+
+            Assert.IsTrue(eSports.ContainsTeam(t1));
+            Assert.IsFalse(eSports.ContainsTeam(t2));
+        }
+
     }
 }

@@ -13,11 +13,21 @@
         "runtime": {
           "SportsFinalProject.dll": {}
         }
+      },
+      "SportsLibrary/1.0.0": {
+        "runtime": {
+          "SportsLibrary.dll": {}
+        }
       }
     }
   },
   "libraries": {
     "SportsFinalProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SportsLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
