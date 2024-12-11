@@ -31,10 +31,13 @@ namespace SportsTester
         {
             Player p = new Player();
             Player p2 = new Player();
+            LeaguePlayer p3 = new LeaguePlayer() { Position = "Mid" };
             Team t = new Team();
             t.AddPlayer(p);
+            t.AddPlayer(p3);
 
             Assert.IsTrue(t.ContainsPlayer(p));
+            Assert.IsTrue(t.ContainsPlayer(p3));
             Assert.IsFalse(t.ContainsPlayer(p2));
         }
 
@@ -42,9 +45,9 @@ namespace SportsTester
         public void SportTests()
         {
 
-            Team t1 = new Team();
+            Team t1 = new Team() { Name = "T1 Gaming" };
             Team t2 = new Team();
-            Sport eSports = new Sport();
+            Sport eSports = new Sport() { Name = "League of Legends" };
 
             Player p1 = new Player();
 

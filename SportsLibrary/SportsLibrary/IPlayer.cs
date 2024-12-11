@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SportsLibrary
 {
-    internal interface IPlayer
+    public interface IPlayer
     {
         int Number { get; }
     }

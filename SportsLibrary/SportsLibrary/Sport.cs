@@ -8,10 +8,19 @@ namespace SportsLibrary
 {
     public class Sport
     {
-        string Name { get; }
-        string Description { get; }
+        
+
+        public string Name { get; set; }
+        public string Description { get; set; }
 
         List<Team> Teams { get; }
+
+        public Sport()
+        {
+            Teams = new List<Team>();
+            Name = "default sport name";
+            Description = "this is a sport";
+        }
 
         public void AddTeam(Team team)
         {

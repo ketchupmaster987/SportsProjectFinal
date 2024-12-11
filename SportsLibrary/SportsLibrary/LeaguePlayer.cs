@@ -9,7 +9,7 @@ namespace SportsLibrary
     public class LeaguePlayer : IPlayer
     {
         public int Number { get; protected set; }
-        string Position { get; }
+        public string Position { get; set; }
 
 
     }

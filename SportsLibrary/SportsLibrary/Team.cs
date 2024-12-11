@@ -9,27 +9,27 @@ namespace SportsLibrary
     public class Team
     {
 
-        string Name { get; set; }
+        public string Name { get; set; }
 
-        public List<Player> teamPlayers;
+        public List<IPlayer> teamPlayers;
 
         public Team()
         {
-            teamPlayers = new List<Player>();
+            teamPlayers = new List<IPlayer>();
             Name = "default team name";
         }
 
-        public void AddPlayer(Player player)
+        public void AddPlayer(IPlayer player)
         { 
             teamPlayers.Add(player);
         }
 
-        public void RemovePlayer(Player player)
+        public void RemovePlayer(IPlayer player)
         {
             teamPlayers.Remove(player);
         }
 
-        public bool ContainsPlayer(Player player)
+        public bool ContainsPlayer(IPlayer player)
         {
             if (teamPlayers.Contains(player))
             {
